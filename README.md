@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tonylee01
-- 👀 I’m interested in Data Analytics Intern
-- 🌱 I’m currently learning Data Analytics
+Be- 👋 Hi, I’m @Tonylee01
+- 👀 I’m interested in Data Analytics/Science Intern
+- 🌱 I’m currently learning Data Analytics/Science on Datacamp
 - 💞️ I’m looking to collaborate on Data Analytical Projects
 - 📫 Reach me via akalaanthony02@gmail.com
 
